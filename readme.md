@@ -1,10 +1,10 @@
-#Full-stack CRUDS opreation system
+#Full-stack CRUDS opreation system.
 ##features: 
 - Add product 
 - update product 
 - delete product 
 - search in all products 
-- real time update for products table 
+- real time update for products table .
 ##build with : 
 - HTML 5
 - CSS 3
